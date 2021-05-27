@@ -1,0 +1,15 @@
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/obj/Debug/net5.0/RollOfDice.csprojAssemblyReference.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/obj/Debug/net5.0/RollOfDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/obj/Debug/net5.0/RollOfDice.AssemblyInfoInputs.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/obj/Debug/net5.0/RollOfDice.AssemblyInfo.cs
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/obj/Debug/net5.0/RollOfDice.csproj.CoreCompileInputs.cache
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/bin/Debug/net5.0/RollOfDice.deps.json
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/bin/Debug/net5.0/RollOfDice.runtimeconfig.json
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/bin/Debug/net5.0/RollOfDice.runtimeconfig.dev.json
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/bin/Debug/net5.0/RollOfDice.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/bin/Debug/net5.0/ref/RollOfDice.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/bin/Debug/net5.0/RollOfDice.pdb
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/obj/Debug/net5.0/RollOfDice.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/obj/Debug/net5.0/ref/RollOfDice.dll
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/obj/Debug/net5.0/RollOfDice.pdb
+/Users/patsmith/TrueCoders/LogicPuzzles/RollOfDice/RollOfDice/obj/Debug/net5.0/RollOfDice.genruntimeconfig.cache
